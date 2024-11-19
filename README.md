@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ramzan Akram</h1>
 <h3 align="center">Aspiring Full Stack Developer | Currently Learning Next.js in an Artificial Intelligence Course 🌟</h3>
 
-- 🔭 I’m currently working on [🔭 I’m currently working on Learning Next.js and updating my Personal Portfolio Website 🌐](https://personal-portfolio-silk-two-14.vercel.app/)
+- 🔭 I’m currently working on [Learning Next.js and updating my Personal Portfolio Website 🌐](https://personal-portfolio-silk-two-14.vercel.app/)
 
 - 🌱 I’m currently learning **📚 I’m currently learning Next.js and advanced UI design with Tailwind CSS.**
 
