@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Learning Next.js and updating my Personal Portfolio Website 🌐](https://personal-portfolio-silk-two-14.vercel.app/)
 
-- 🌱 I’m currently learning **📚 I’m currently learning Next.js and advanced UI design with Tailwind CSS.**
+- 🌱 I’m currently learning **Next.js and advanced UI design with Tailwind CSS.**
 
 - 👯 I’m looking to collaborate on **Open-source projects using Next.js and React.js 🚀 and Frontend development and UI/UX design improvements 🎨**
 
 - 🤝 I’m looking for help with **Mastering advanced Next.js concepts and best practices 🚀 and Improving responsive design techniques with Tailwind CSS 🎨**
 
-- 💬 Ask me about **💬 Ask me about Next.js, Tailwind CSS, and full stack development.**
+- 💬 Ask me about **Next.js, Tailwind CSS, and full stack development.**
 
 - 📫 How to reach me **ramzanakram1875@outlook.com**
 
